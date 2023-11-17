@@ -1,1 +1,1 @@
-# odin-recipes
+Working on learning html, I think I understand most of this quite well and I'm currently working on the recipes project.
