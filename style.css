@@ -1,0 +1,17 @@
+h1 {
+    font-weight:bolder;
+    color:lightblue;
+    font-family: "Lucida Handwriting", cursive;
+}
+* {
+    background-color:beige;
+}
+
+h3 {
+    font-weight:100;
+}
+
+h3.first {
+    font-weight:bolder;
+    color:gold;
+}
